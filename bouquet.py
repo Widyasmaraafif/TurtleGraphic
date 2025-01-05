@@ -12,6 +12,7 @@ def go(x, y):
     
 t.pencolor("DarkKhaki")
 t.fillcolor("Khaki")
+t.speed("fast")
 
 go(40.03, -167.53)
 t.begin_fill()
