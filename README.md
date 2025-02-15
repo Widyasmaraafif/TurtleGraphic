@@ -36,7 +36,7 @@ git clone https://github.com/Widyasmaraafif/TurtleGraphic.git
 ```
 2. Pindah ke direktori proyek:
 ```sh
-cd turtle-graphic
+cd TurtleGraphic
 ```
 3. Jalankan skrip utama:
 ```sh
